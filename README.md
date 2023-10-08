@@ -5,7 +5,7 @@
 ---
 
 🎓 **Academic Journey**:
-- 🔭 I'm deeply immersed in my **Ph.D.** endeavors at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), gratefully under the mentorship of [Prof. Naira Hovakimyan](https://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/).
+- I'm deeply immersed in my **Ph.D.** endeavors at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), gratefully under the mentorship of [Prof. Naira Hovakimyan](https://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/).
 
 🌱 **Research Interests**:
 - I'm navigating the realms of **Computer Vision**, **Deep Learning**, **Representation Learning**, and **Multi-Modality Learning**.
