@@ -1,31 +1,33 @@
-### Hi there, Greetings from Jing! 👋
+### Hello World! 🌍 I'm Jing! 👋
 
+🔥 **Exciting Announcement:** I'm thrilled to share that I'll be on the job market in **2024**! Open to potential opportunities and collaborations. Feel free to reach out! 🔥
 
+---
 
+🎓 **Academic Journey**:
+- 🔭 I'm deeply immersed in my **Ph.D.** endeavors at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), gratefully under the mentorship of [Prof. Naira Hovakimyan](https://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/).
 
-- 🔭 I'm currently a Ph.D. candidate at the University of Illinois at Urbana-Champaign, advised by Prof. Naira Hovakimyan. 
-- 🌱 I’m interested in Computer Vision, Deep Learning, Representation Learning, and Multi-Modality Learning.
-- 🤔 In industry applications, my efforts are devoted to remote sensing, robotics, and sustainable agriculture. 
+🌱 **Research Interests**:
+- I'm navigating the realms of **Computer Vision**, **Deep Learning**, **Representation Learning**, and **Multi-Modality Learning**.
 
+🤖 **Industry Applications**:
+- Focused on leveraging tech for **remote sensing**, **robotics**, and **sustainable agriculture**.
+
+---
+
+📊 **Languages & Tools**: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingwu6)](https://github.com/Christmas/github-readme-stats)
 
+---
 
-- ⚡ Fun fact: Your visiting number is
+⚡ **Did You Know?**: 
+You're visitor number: ![Visitor Count](https://profile-counter.glitch.me/jingwu6/count.svg) to my GitHub profile. Thanks for dropping by!
 
-  ![Visitor Count](https://profile-counter.glitch.me/jingwu6/count.svg)
-<!--
+---
+
+🔗 Let's connect! Feel free to dive into my projects, raise issues, submit PRs, or just say hi! 
+
+<!-- 
 **jingwu6/jingwu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
