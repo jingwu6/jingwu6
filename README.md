@@ -8,7 +8,7 @@
 - I'm deeply immersed in my **Ph.D.** endeavors at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), gratefully under the mentorship of [Prof. Naira Hovakimyan](https://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/).
 
 🌱 **Research Interests**:
-- I'm navigating the realms of **Computer Vision**, **Deep Learning**, **Representation Learning**, and **Multi-Modality Learning**.
+- I'm navigating the realms of **Computer Vision**, **LLM**, **Representation Learning**, and **Multi-Modality Learning**.
 
 🤖 **Industry Applications**:
 - Focused on leveraging tech for **remote sensing**, **robotics**, and **sustainable agriculture**.
