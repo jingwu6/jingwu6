@@ -1,6 +1,6 @@
 ### Hello World! 🌍 I'm Jing! 👋
 
-🔥 **Exciting Announcement:** I'm thrilled to share that I'll be on the job market in **2024**! Open to potential opportunities and collaborations. Feel free to reach out! 🔥
+🔥 **Exciting Announcement:** Open to potential opportunities and collaborations. Feel free to reach out! 🔥
 
 ---
 
